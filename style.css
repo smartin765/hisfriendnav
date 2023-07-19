@@ -32,7 +32,7 @@ nav ul li a {
 }
 
 main {
-    padding: 20px;
+    padding: 25px;
 }
 
 h1 {
@@ -41,7 +41,7 @@ h1 {
 }
 
 p {
-    font-size: 30px;
+    font-size: 20px;
     text-alignment: center;
     
 }
@@ -53,4 +53,9 @@ margin:none;
 alignment: center;
 }
 
-
+.roman
+{
+padding: 10px;
+margin:none;
+alignment: center;
+}
