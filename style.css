@@ -1,17 +1,14 @@
 
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Berkshire+Swash&display=swap" rel="stylesheet">
+
 
 body {
-    margin: 0;
-    font-family: 'Berkshire Swash', cursive;
-text-alignment: center;
+  font-family: 'Annie Use Your Telescope', cursive;
  
 }
 
 
 header {
+    font-family: 'Annie Use Your Telescope', cursive;
     background-color: #356;
     color: #fff;
     padding: 20px;
