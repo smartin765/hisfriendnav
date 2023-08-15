@@ -1,4 +1,6 @@
 
+<style>
+
 head {
   font-family: 'Annie Use Your Telescope', cursive;
  
@@ -21,7 +23,7 @@ header {
 nav ul {
     font-family: 'Annie Use Your Telescope', cursive;
     list-style-type: none;
-    margin: 0;
+    margin: auto;
     padding: 30;
 }
 
@@ -49,10 +51,21 @@ h1 {
 }
 
 p {
-    font-family: 'Annie Use Your Telescope', cursive;
+    font-family: sans-serif;
     font-size: 20px;
     text-alignment: center;
     
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.regular-text {
+    font family: 'Annie Use Your Telescope',sans-serif;
 }
 
 .egypt 
@@ -62,12 +75,7 @@ margin:none;
 alignment: center;
 }
 
-.roman
-{
-padding: 10px;
-margin:none;
-alignment: center;
-}
+
 
 .column {
   float: left;
@@ -81,4 +89,16 @@ alignment: center;
   clear: both;
 }
 
+
+
+.material-symbols-outlined {
+  font-variation-settings:
+  'FILL' 0,
+  'wght' 400,
+  'GRAD' 0,
+  'opsz' 48
+}
+
+
+</style>
 
