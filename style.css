@@ -91,7 +91,6 @@ alignment: center;
 }
 
 
-
 .material-symbols-outlined {
   font-variation-settings:
   'FILL' 0,
@@ -101,9 +100,10 @@ alignment: center;
 }
 
 .fb-like {
-    padding: 10px;
+    padding: 20px;
 margin:none;
 alignment: center;
+ width: auto;
 }
 
 </style>
