@@ -138,18 +138,21 @@ alignment: center;
 
 .fb-like {
     padding: 20px;
-margin:none;
 alignment: center;
- width: auto;
- flex-wrap: auto;
+ display:block;
+  word-wrap: break-word;
+  overflow: auto;
+  color: #673ab7;
+  width: 300px;
 }
 
 .footer {  
 font-family: 'Annie Use Your Telescope', cursive; 
     padding: 20px;
-margin:10px;
+margin:auto;
 alignment: center;
  width: auto;
+ isplay: block;
 }
 </style>
 
