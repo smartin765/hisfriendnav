@@ -102,6 +102,12 @@ p {
   width: 50%;
 }
 
+.text {
+     font-family: 'Annie Use Your Telescope', cursive;
+    font-size: 30px;
+    text-alignment: center;
+}
+
 .regular-text {
     font family: 'Annie Use Your Telescope',sans-serif;
 }
