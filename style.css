@@ -119,6 +119,10 @@ margin:none;
 alignment: center;
 }
 
+.wrap
+{
+ word-wrap: break-word;   
+}
 
 
 .column {
