@@ -121,7 +121,9 @@ alignment: center;
 
 .wrap
 {
- word-wrap: break-word;   
+ word-wrap: auto;   
+ object-fit: scale-down;
+max-width: 100%
 }
 
 
