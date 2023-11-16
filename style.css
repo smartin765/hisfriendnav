@@ -40,12 +40,15 @@
 
 head {
   font-family: 'Annie Use Your Telescope', cursive;
+  
+  word-wrap: break-word;
+}
  
 }
 
 body {
   font-family: 'Annie Use Your Telescope', cursive;
- 
+ word-wrap: break-word;
 }
 
 
