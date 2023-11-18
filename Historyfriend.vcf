@@ -1,0 +1,10 @@
+BEGIN:VCARD
+VERSION;TYPE=WORK:3.0
+PROFILE:VCARD
+URL;VALUE=URI:http://www.historyfriend.com
+N;CHARSET=UTF-8:Steve Martin;;;;
+FN;CHARSET=UTF-8:Steve Martin
+ORG;CHARSET=UTF-8:Historyfriend
+EMAIL:stevemartin98@hotmail.com
+ADR;CHARSET=UTF-8:;;304 E 19th St,;Sioux Falls;SD;57105-0827;USA
+END:VCARD

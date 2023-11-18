@@ -52,14 +52,19 @@ body {
 }
 
 
-header {
-    font-family: 'Annie Use Your Telescope', cursive;
+
     
     
+    
+   
+  header {
+      font-family: 'Annie Use Your Telescope', cursive;
+    background-color: #356;
+    color: #fff;
     padding: 20px;
     text-alignment: center;
-    width: auto;
 }
+
 
 nav ul {
     font-family: 'Annie Use Your Telescope', cursive;
